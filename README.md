@@ -99,27 +99,9 @@ Then open the link in your browser (usually http://localhost:8501).
 Image-Classification-of-cat--and-dog-using-CNN-DL/
 ├── app.py                 # Streamlit web app
 ├── IC.keras               # Pre-trained CNN model (from Drive)
-├── x_test.npy             # Test images (from Drive)
-├── y_test.npy             # Test labels (from Drive)
 ├── README.md              # This file
 ├── requirements.txt       # Python dependencies
 └── .gitignore             # Git ignored files
-```
-
----
-
-## 📋 .gitignore Example
-
-```
-__pycache__/
-*.pyc
-*.ipynb_checkpoints/
-*.npy
-*.h5
-*.keras
-.env
-.venv/
-.DS_Store
 ```
 
 ---
@@ -139,7 +121,7 @@ __pycache__/
 **Satwik Saxena**  
 📧 Email: satwik.yourmail@example.com  
 🔗 GitHub: [satwik12-dev](https://github.com/satwik12-dev)  
-🔗 LinkedIn: [Your LinkedIn URL](https://linkedin.com/in/your-link)
+🔗 LinkedIn: [satwik-12-dev](https://linkedin.com/in/satwik-12-dev)
 
 ---
 
