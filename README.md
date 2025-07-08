@@ -119,7 +119,7 @@ Image-Classification-of-cat--and-dog-using-CNN-DL/
 ## 🧑‍💻 Author
 
 **Satwik Saxena**  
-📧 Email: satwik.yourmail@example.com  
+📧 Email: satwiksaxena41@gmail.com  
 🔗 GitHub: [satwik12-dev](https://github.com/satwik12-dev)  
 🔗 LinkedIn: [satwik-12-dev](https://linkedin.com/in/satwik-12-dev)
 
