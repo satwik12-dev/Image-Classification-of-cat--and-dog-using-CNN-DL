@@ -35,8 +35,8 @@ This project is a simple and interactive web application built using **Streamlit
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/cats-vs-dogs-classifier.git
-    cd cats-vs-dogs-classifier
+    git clone [https://github.com/yourusername/cats-vs-dogs-classifier.git](https://github.com/satwik12-dev/Image-Classification-of-cat--and-dog-using-CNN-DL.git)
+    cd Image-Classification-of-cat--and-dog-using-CNN-DL.git
     ```
 
 2. **Install dependencies**:
@@ -51,7 +51,7 @@ This project is a simple and interactive web application built using **Streamlit
 
 ## 🧪 Requirements
 
-- Python 3.7+
+- Python 3.9+
 - Streamlit
 - TensorFlow
 - Pillow
